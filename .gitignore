@@ -1,0 +1,10 @@
+# Archivos compilados de Java
+*.class
+
+# Proyecto IntelliJ IDEA
+.idea/
+*.iml
+
+# Salidas de compilacion (opcional)
+/out/
+/target/
